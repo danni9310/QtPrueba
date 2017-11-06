@@ -8,5 +8,6 @@ int main(int argc, char *argv[])
     w.show();
     const a: 3;
     console.log("ho");
+    console.log("prueba3")
     return a.exec();
 }
