@@ -4,6 +4,7 @@
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
+  property int nuevo: 0
 {
     ui->setupUi(this);
 }
