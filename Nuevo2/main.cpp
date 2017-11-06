@@ -7,6 +7,7 @@ int main(int argc, char *argv[])
     MainWindow w;
     w.show();
     const a: 3;
+    console.log("hola");
 
     return a.exec();
 }
